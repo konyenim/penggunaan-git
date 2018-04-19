@@ -17,3 +17,5 @@ tes penggunaan git dengan command line
 - Merubah project yang sudah di clone di command line
 - Merubah file
 - mengirim file ke github
+- merubah di github
+- mem pull ke lokal
