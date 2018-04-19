@@ -19,3 +19,13 @@ tes penggunaan git dengan command line
 - mengirim file ke github
 - merubah di github
 - mem pull ke lokal
+
+
+## Menggunakan git di tim
+- Mulai bekerja dengan melihat issue tracker
+- Bekerja tidak pada master
+- Membuat branch sendiri
+- mem-push branc tersebut
+- Merubah kode pada branch tersebut
+- meng commit
+- mem-push
